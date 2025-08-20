@@ -67,8 +67,6 @@ flagView.cornerRadius = 12f
 |-------------|------------------|------------------|
 | ![Square Flag](screenshots/square_flag.png) | ![Rectangular Flag](screenshots/rectangular_flag.png) | ![Rounded Corners](screenshots/rounded_flag.png) |
 
-*Place your screenshot images in a `screenshots/` folder in your repository and ensure the paths above match the file names.*
-
 ## 📦 Versioning
 
 Tags follow [SemVer](https://semver.org/) format.  
