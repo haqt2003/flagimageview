@@ -65,7 +65,7 @@ flagView.cornerRadius = 12f
 
 | Square Flag | Rectangular Flag | Rounded Corners |
 |-------------|------------------|------------------|
-| ![Square Flag](screenshots/square_flag.png) | ![Rectangular Flag](screenshots/rectangular_flag.png) | ![Rounded Corners](screenshots/rounded_flag.png) |
+| <img src="screenshots/square_flag.png" width="120"> | <img src="screenshots/rectangular_flag.png" width="120"> | <img src="screenshots/rounded_flag.png" width="120"> |
 
 ## 📦 Versioning
 
