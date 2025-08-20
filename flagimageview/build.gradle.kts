@@ -9,7 +9,7 @@ plugins {
 
 android {
     namespace = "com.haqt.flagimageview"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         minSdk = 24
