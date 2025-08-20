@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="1200dp"
+    android:height="800dp"
+    android:viewportWidth="1200"
+    android:viewportHeight="800">
+
+  <!-- Nền xanh -->
+  <path
+      android:fillColor="#008000"
+      android:pathData="M0,0h1200v800h-1200z" />
+
+  <!-- Ô vuông trắng (canton) -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M0,0h400v400h-400z" />
+
+  <!-- Ngôi sao xanh trong ô vuông trắng -->
+  <path
+      android:fillColor="#008000"
+      android:pathData="M200,100
+              L225,180
+              L300,180
+              L240,230
+              L265,310
+              L200,260
+              L135,310
+              L160,230
+              L100,180
+              L175,180 Z"/>
+</vector>
