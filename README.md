@@ -65,12 +65,7 @@ flagView.cornerRadius = 12f
 
 | Square Flag | Rectangular Flag | Rounded Corners |
 |-------------|------------------|------------------|
-| <img src="screenshots/square_flag.png" height="120"> | <img src="screenshots/rectangular_flag.png" height="120"> | <img src="screenshots/rounded_flag.png" width="120"> |
-
-## 📦 Versioning
-
-Tags follow [SemVer](https://semver.org/) format.  
-Example: Release `v1.0.0` → use in Gradle as `1.0.0`.
+| <img src="screenshots/square_flag.png?v=2" width="120"> | <img src="screenshots/rectangular_flag.png?v=2" height="120"> | <img src="screenshots/rounded_flag.png?v=2" width="120"> |
 
 ## 📜 License
 
