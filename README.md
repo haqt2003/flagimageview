@@ -57,9 +57,9 @@ flagView.cornerRadius = 12f
 
 | Attribute      | Type   | Example             | Description                                                                 |
 |----------------|--------|---------------------|-----------------------------------------------------------------------------|
-| `countryCode`  | String | `"us"`             | ISO country code (lowercase). Example: `"us"`, `"jp"`, `"vn"`.              |
-| `shape`        | Enum   | `"square"` or `"rectangle"` | Defines flag aspect ratio (1x1 or 4x3).                              |
-| `cornerRadius` | Dimen  | `"8dp"`            | Rounded corner radius. If too large, automatically adjusts to max (circle/pill). |
+| `countryCode`  | String | `"us"`, `"US"`      | ISO country code. Example: `"us"`, `"US"`, `"vn"`, `"VN"`.                  |
+| `shape`        | Enum   | `"square"` or `"rectangle"` | Defines flag aspect ratio (1x1 or 4x3).                             |
+| `cornerRadius` | Dimen  | `"8dp"`             | Rounded corner radius. If too large, automatically adjusts to max (circle/pill). |
 
 ## 📷 Screenshots
 
