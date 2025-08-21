@@ -1,4 +1,4 @@
-# FlagImageView 🚩
+# FlagImageView 
 
 A customizable Android `ShapeableImageView` to easily display country flags with different shapes and rounded corners.  
 Published via **JitPack**.
